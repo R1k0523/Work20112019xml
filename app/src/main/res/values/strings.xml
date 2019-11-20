@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application11</string>
+    <string name="fam">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="otch">Отчество</string>
+    <string name="Year">Год</string>
+    <string name="school">Школа</string>
+    <string name="city">Город</string>
+    <string name="exp">Опыт программирования</string>
+    <string name="Knowledge">Знание языков программирования</string>
+</resources>
